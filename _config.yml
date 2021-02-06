@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Ahyoung Oh"
   avatar           : "/assets/images/bio-image.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "데이터 분석과 블록체인을 공부하는 "
+  bio              : "데이터 분석과 블록체인을 공부하는 대학원생"
   location         : "Seoul, South Korea"
   email            :
   links:
