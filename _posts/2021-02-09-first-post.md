@@ -1,11 +1,11 @@
 ---
-title: "First post"
-excerpt: "공부 내용 공유하는 블로그 시작"
+title:  "Welcome to Ahyoung's Blog"
+excerpt: "Blog 시작"
 
 categories:
   - Blog
- tags:
+tags:
   - Blog
- ---
+---
 
- Welcome to Ahyoung's blog!
+Blog 시작하는 글
