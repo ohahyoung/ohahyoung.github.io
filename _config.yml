@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -100,11 +100,11 @@ author:
   location         : "Seoul, South Korea"
   email            : "fouros95@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fouros95@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    #    - label: "Email"
+    # icon: "fas fa-fw fa-envelope-square"
+    # url: "mailto:fouros95@gmail.com"
+    #- label: "Website"
+    # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
