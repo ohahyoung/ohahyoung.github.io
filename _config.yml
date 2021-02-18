@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Ahyoung Oh"
   avatar           : "/assets/images/bio-image.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "대학원생"
+  bio              : "Somewhere between Data Analyst and Data Scientist"
   location         : "Seoul, South Korea"
   email            : "fouros95@gmail.com"
   links:
