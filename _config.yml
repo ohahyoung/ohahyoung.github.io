@@ -25,7 +25,7 @@ url                      : "https://ohahyoung.github.io" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/yomi-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/yomi-logo-2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Ahyoung Oh"
-  avatar           : "/assets/images/art-profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/yomi-profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
   location         : "Seoul, South Korea"
   email            : "fouros95@gmail.com"
